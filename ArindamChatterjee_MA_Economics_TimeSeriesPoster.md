@@ -1,4 +1,15 @@
-# R Markdown Document
+R Markdown Document
+
+Title:
+
+Abstract This paper evaluates the effects of oil shock on the foreign
+exchange market, industrial production, and level of unemployment in the
+USA from Q1 1994 to Q4 2022. This involves an empirical study by way of
+a 6 × 6 Structural Vector Autoregressive (VAR) model involving spot WTI
+crude oil price, consumer price inflation (CPI) index, Foreign Direct
+Investment (FDI), broad real effective foreign exchange rate of USD,
+units of industrial production, and the unemployment level of USA over
+29 years..
 
 [Click here to view the
-PDF](https://drive.google.com/file/d/1zAGofWB_wAVPWXPY_dtiKCHs-YX_xLlQ/view?usp=sharing)
+PDF](https://drive.google.com/file/d/14Zn7zW8xTz69OigMWnm6BliiOoOeZ0jk/view?usp=share_link)
