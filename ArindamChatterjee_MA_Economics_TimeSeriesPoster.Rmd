@@ -9,7 +9,9 @@ fontsize: 16 pt
 
 R Markdown Document
 
-Title: 
+Title: How Does The Oil Shock Affect The Foreign Exchange Market, Industrial Production, and The Level of Unemployment In USA: An Empirical Approach
+
+Author: Arindam Chatterjee
 
 Abstract
 This paper evaluates the effects of oil shock on the foreign exchange market, industrial production, and level of unemployment in the USA from Q1 1994 to Q4 2022. This involves an empirical study by way of a 6 × 6 Structural Vector Autoregressive (VAR) model involving spot WTI crude oil price, consumer price inflation (CPI) index, Foreign Direct Investment (FDI), broad real effective foreign exchange rate of USD, units of industrial production, and the unemployment level of USA over 29 years..

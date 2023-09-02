@@ -1,6 +1,10 @@
 R Markdown Document
 
-Title:
+Title: How Does The Oil Shock Affect The Foreign Exchange Market,
+Industrial Production, and The Level of Unemployment In USA: An
+Empirical Approach
+
+Author: Arindam Chatterjee
 
 Abstract This paper evaluates the effects of oil shock on the foreign
 exchange market, industrial production, and level of unemployment in the
